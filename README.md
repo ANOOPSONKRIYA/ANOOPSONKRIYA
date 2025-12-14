@@ -17,11 +17,11 @@
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANOOPSONKRIYA/ANOOPSONKRIYA/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ANOOPSONKRIYA/ANOOPSONKRIYA/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ANOOPSONKRIYA/ANOOPSONKRIYA/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 
@@ -61,19 +61,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="29" alt="vscode logo"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/3813c7swjpebyyvo0etrxp7jy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3813c7swjpebyyvo0etrxp7jy&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANOOPSONKRIYA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANOOPSONKRIYA&radius=16&theme=github-dark-dimmed&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/3813c7swjpebyyvo0etrxp7jy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3813c7swjpebyyvo0etrxp7jy&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
