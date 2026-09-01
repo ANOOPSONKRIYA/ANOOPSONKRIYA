@@ -8,7 +8,7 @@ th visitor!
 
 ###
 
-<p align="left">➜ Hello! I'm ANOOP SONKRIYA 🪐<br><br>⋆ Coding isn't just a skill, it's my passion. <br>⋆ I love the thrill of bringing ideas to life and making a difference through code.<br><br>⋆ I'm always excited to see how technology can shape our world and improve our lives.<br>⋆ Always ready whether it's exploring new gadgets, diving into coding, or staying up-to-date on the latest trends.<br><br>➢ Outside of tech, I am nature lover and have spent my weekends exploring Places.🌲</p>
+<p align="left">About Me ➜<br><br>⋆ Coding isn't just a skill, it's my passion. <br>⋆ I love the thrill of bringing ideas to life and making a difference through code.<br><br>⋆ I'm always excited to see how technology can shape our world and improve our lives.<br>⋆ Always ready whether it's exploring new gadgets, diving into coding, or staying up-to-date on the latest trends.<br><br>➢ Outside of tech, I am nature lover and have spent my weekends exploring Places.🌲</p>
 
 ###
 
