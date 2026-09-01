@@ -1,4 +1,10 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+### 👋 Hi There! This is Anoop.
+
+<p align="center">
+Welcome, the
+<a href="https://github.com/XiaoYouChR" target="_blank"><img src="https://count.getloli.com/get/@anoopsonkriya?theme=rule34" alt="Visitor Counter"></a>
+th visitor!
+</p>
 
 ###
 
